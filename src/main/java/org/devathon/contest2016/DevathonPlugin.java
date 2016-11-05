@@ -11,7 +11,7 @@ public class DevathonPlugin extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // put your disable code here
+
     }
 }
 
