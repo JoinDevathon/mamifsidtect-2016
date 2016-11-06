@@ -1,4 +1,6 @@
 package org.devathon.contest2016.listeners.player;
 
-public class PlayerJoin {
+import org.bukkit.event.Listener;
+
+public class PlayerJoin implements Listener {
 }
